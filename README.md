@@ -2,6 +2,10 @@
 
 This bash script is designed to simplify and automate the process of changing IP address and gateway in the Netplan configuration file on Ubuntu Server systems.
 
+## Screenshots
+![Pre](https://github.com/m43c/configure-netplan/blob/main/screenshots/pre.png?raw=true)
+![Pos](https://github.com/m43c/configure-netplan/blob/main/screenshots/pos.png?raw=true)
+
 ## Usage
 
 1. Clone this repository:
