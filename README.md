@@ -44,10 +44,6 @@ The script performs the following steps:
 - Use this script with caution and ensure you understand the changes you are making to your system's network configuration.
 - If something goes wrong during script execution, instructions will be provided to revert the changes.
 
-## Author
-
-This script was developed by [Marco Encinas].
-
 ## Contribution
 
 Contributions are welcome. If you wish to improve the script, feel free to submit a pull request.
